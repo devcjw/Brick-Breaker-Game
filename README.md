@@ -86,4 +86,4 @@ A: 최고 점수는 Java의 `Preferences` API를 사용하여 저장됩니다. �
 
 ## 라이센스
 
-이 프로젝트는 [MIT 라이센스](https://opensource.org/licenses/MIT) 하에 제공됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
+이 프로젝트는 [MIT 라이센스](https://opensource.org/licenses/MIT) 하에 제공됩니다. 
